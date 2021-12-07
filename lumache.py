@@ -20,4 +20,15 @@ def get_random_ingredients(kind=None):
     :return: The ingredients list.
     :rtype: list[str]
     """
-    return ["Credit Scores", 'Auto loans', 'Personal loans']
+    return ["meat", 'fish', 'veggies']
+
+def get_upstart_ingredients(woot=True):
+    """
+    Return a list of upstart ingredients as strings.
+
+    :param woot: Optional exclamation of excitement.
+    :type woot: boolean
+    :return: The ingredients list.
+    :rtype: list[str]
+    """
+    return ["loans", 'UPST', 'credit']
