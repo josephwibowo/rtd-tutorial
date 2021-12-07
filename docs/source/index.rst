@@ -15,6 +15,5 @@ Contents
 
 .. toctree::
 
-   benefits
-   costs
-   examples
+   api
+   usage
