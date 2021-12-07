@@ -32,3 +32,10 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+Upstart Recipes
+---------------
+To retrieve Upstart Ingredients,
+you can use the ``lumache.get_upstart_ingredients()`` function:
+
+.. autofunction:: lumache.get_upstart_ingredients
+
